@@ -1,0 +1,13 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+scikit-learn
+# Deep Learning (LSTM)
+tensorflow
+# Visualization
+seaborn
+keras_tuner
+GRU
+
+
