@@ -65,7 +65,7 @@ Hyperparameter tuning can improve accuracy.
 Try Transformer-based models for better long-term forecasting.
 
 Deploy using streamlit for real-time predictions.
-
+ TRY THIS -- https://salesforecasting-6tcx3rd4up9hay9xmyzydz.streamlit.app/
 📌 Future Work
 
 Integrate the model into a web application.
@@ -73,5 +73,6 @@ Integrate the model into a web application.
 Automate training & evaluation with MLOps.
 
 🎯 This project helps businesses make data-driven sales forecasts and optimize supply chain management. 🚀
+
 
 Author -- Moitri Dey
